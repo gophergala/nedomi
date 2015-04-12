@@ -1,3 +1,7 @@
+## Update
+
+The development of nedomi has been moved to [https://github.com/ironsmile/nedomi/](https://github.com/ironsmile/nedomi/). This repo is kept for historical reasons.
+
 # nedomi
 
 HTTP media cache server. Most caching servers does not understand when a media file is being proxied. When storing media files you can gain  performance and space when you consider the fact that most of the big meda files are not actually watched from end to end.
